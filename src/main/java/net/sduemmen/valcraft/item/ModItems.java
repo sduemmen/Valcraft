@@ -35,7 +35,7 @@ public class ModItems {
     public static final RegistryObject<Item> BRONZE_INGOT = ITEMS.register("bronze_ingot", () -> new Item(new Item.Properties()
             .tab(ModItemGroups.VALCRAFT_MATERIALS_ITEM_GROUP)));
 
-    public static final RegistryObject<Item> BRONZE_NAIL = ITEMS.register("bronze_nail", () -> new Item(new Item.Properties()
+    public static final RegistryObject<Item> BRONZE_NAILS = ITEMS.register("bronze_nails", () -> new Item(new Item.Properties()
             .tab(ModItemGroups.VALCRAFT_MATERIALS_ITEM_GROUP)));
 
     public static final RegistryObject<Item> CHITIN = ITEMS.register("chitin", () -> new Item(new Item.Properties()
@@ -80,10 +80,10 @@ public class ModItems {
     public static final RegistryObject<Item> HARD_ANTLER = ITEMS.register("hard_antler", () -> new Item(new Item.Properties()
             .tab(ModItemGroups.VALCRAFT_MATERIALS_ITEM_GROUP)));
 
-    public static final RegistryObject<Item> IRON_NAIL = ITEMS.register("iron_nail", () -> new Item(new Item.Properties()
+    public static final RegistryObject<Item> IRON_NAILS = ITEMS.register("iron_nails", () -> new Item(new Item.Properties()
             .tab(ModItemGroups.VALCRAFT_MATERIALS_ITEM_GROUP)));
 
-    public static final RegistryObject<Item> LEATHER_SCRAP = ITEMS.register("leather_scrap", () -> new Item(new Item.Properties()
+    public static final RegistryObject<Item> LEATHER_SCRAPS = ITEMS.register("leather_scraps", () -> new Item(new Item.Properties()
             .tab(ModItemGroups.VALCRAFT_MATERIALS_ITEM_GROUP)));
 
     public static final RegistryObject<Item> LINEN_THREAD = ITEMS.register("linen_thread", () -> new Item(new Item.Properties()
